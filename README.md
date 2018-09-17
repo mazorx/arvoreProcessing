@@ -1,2 +1,2 @@
-# gakriv
+# Árvore
 Geradorzinho gráfico de árvore
